@@ -1,8 +1,5 @@
 import streamlit as st
 
-# Agrega la imagen de fondo
-st.image('https://github.com/Gonzagarcia98/mediosdepago/blob/main/imagenes/TARIFAS%20UALA%201.png', use_column_width=True)
-
 st.markdown("<h1 style='text-align: center; font-size: 54px; font-family: Verdana, sans-serif;'>Tarifas de medios de pago</h1>", unsafe_allow_html=True)
 
 st.write("---")
