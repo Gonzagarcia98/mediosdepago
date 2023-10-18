@@ -13,6 +13,6 @@ st.image("imagenes/MODO.png")
 with st.expander("Modo", False):
     st.write("Info sobre costos de Modo")
 
-st.image("imagenes/UALA.png")
+st.image("imagenes/UALA (600 x 300 px).png")
 with st.expander("Uala", False):
     st.write("Info sobre costos de Uala")
