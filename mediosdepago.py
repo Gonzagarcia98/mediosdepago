@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Tarifas de medios de pago")
+st.markdown("<h1 style='text-align: center; font-size: 54px; font-family: Verdana, sans-serif;'>Tarifas de medios de pago</h1>", unsafe_allow_html=True)
 
 st.write("---")
 st.image("imagenes/MERCADOPAGO.png")
