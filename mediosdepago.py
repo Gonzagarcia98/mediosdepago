@@ -21,5 +21,6 @@ st.write("---")
 st.image("imagenes/UALA.png")
 with st.expander("Desplegar información", False):
     st.image("imagenes/TARIFAS UALA 1.png")
+    st.image("imagenes/TARIFAS UALA 2.png")
     st.write("Para más información ingresar en https://www.ualabis.com.ar/")
 st.write("---")
