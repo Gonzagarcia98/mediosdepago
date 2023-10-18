@@ -5,17 +5,17 @@ st.markdown("<h1 style='text-align: center; font-size: 54px; font-family: Verdan
 st.write("---")
 st.image("imagenes/MERCADOPAGO.png")
 with st.expander("Mercado Pago", False):
-    st.write("Info sobre costos de Mercado Pago")
+    st.write("Desplegar información")
 st.write("---")
 
 st.image("imagenes/PAYWAY.png")
 with st.expander("PayWay", False):    
-    st.write("Info sobre costos de PayWay")
+    st.write("Desplegar información")
 st.write("---")
 
 st.image("imagenes/MODO.png")
 with st.expander("Modo", False):
-    st.write("Info sobre costos de Modo")
+    st.write("Desplegar información")
 st.write("---")
 
 st.image("imagenes/UALA.png")
