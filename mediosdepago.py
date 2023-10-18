@@ -20,5 +20,5 @@ st.write("---")
 
 st.image("imagenes/UALA.png")
 with st.expander("Uala", False):
-    st.write("Info sobre costos de Uala")
+    st.image("imagenes/TARIFAS - UALA.png")
 st.write("---")
