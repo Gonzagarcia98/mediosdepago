@@ -4,17 +4,17 @@ st.markdown("<h1 style='text-align: center; font-size: 54px; font-family: Verdan
 
 st.write("---")
 st.image("imagenes/MERCADOPAGO.png")
-with st.expander("Mercado Pago", False):
+with st.expander("Desplegar información", False):
     st.write("Desplegar información")
 st.write("---")
 
 st.image("imagenes/PAYWAY.png")
-with st.expander("PayWay", False):    
+with st.expander("Desplegar información", False):    
     st.write("Desplegar información")
 st.write("---")
 
 st.image("imagenes/MODO.png")
-with st.expander("Modo", False):
+with st.expander("Desplegar información", False):
     st.write("Desplegar información")
 st.write("---")
 
